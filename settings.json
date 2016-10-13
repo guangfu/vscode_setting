@@ -1,0 +1,11 @@
+// 将设置放入此文件中以覆盖默认设置
+{
+  "files.associations": {
+    "*.vm": "html"
+  },
+  "editor.fontSize": 15,
+  "editor.tabSize": 2,
+  "html.suggest.angular1": false,
+  "html.suggest.ionic": false,
+  "typescript.check.tscVersion": false
+}
